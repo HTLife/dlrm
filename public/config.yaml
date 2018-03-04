@@ -1,0 +1,5 @@
+baseURL: http://HTLife.github.com/dlrm
+languageCode: en-us
+title: Deep Learning Road Map
+
+theme: 'hugo-theme-docdock'
